@@ -1,0 +1,25 @@
+{
+  "name": "narrative-engine",
+  "version": "0.0.1",
+  "description": "a animation engine for narrative visualization",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chenzhutian/narrative-engine.git"
+  },
+  "keywords": [
+    "narrative",
+    "visualization",
+    "animation",
+    "engine"
+  ],
+  "author": "zhutian",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chenzhutian/narrative-engine/issues"
+  },
+  "homepage": "https://github.com/chenzhutian/narrative-engine#readme"
+}
