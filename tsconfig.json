@@ -2,11 +2,10 @@
     "compilerOptions": {
         "target": "es6",
         "outDir": "dist",
-        "module": "amd",
+        "module": "es6",
         "sourceMap": true,
         "preserveConstEnums": true,
         "rootDir": ".",
-        "outFile": "dva.js",
         "declaration": true,
         "baseUrl": "."
     },
