@@ -1,0 +1,23 @@
+{
+    "compilerOptions": {
+        "target": "es6",
+        "outDir": "dist",
+        "module": "commonjs",
+        "sourceMap": true,
+        "preserveConstEnums": true,
+        "rootDir": ".",
+        "declaration": true,
+        "baseUrl": ".",
+        "paths": {
+            "*": [
+                "src/*",
+                "src/types/*"
+            ]
+        }
+    },
+    "include":[
+        "src/**/*.ts",
+        "test/**/*.spec.ts"
+    ]
+
+}
