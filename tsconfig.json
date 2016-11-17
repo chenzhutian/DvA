@@ -2,18 +2,13 @@
     "compilerOptions": {
         "target": "es6",
         "outDir": "dist",
-        "module": "commonjs",
+        "module": "umd",
         "sourceMap": true,
         "preserveConstEnums": true,
         "rootDir": ".",
+        "outFile": "dva.js",
         "declaration": true,
-        "baseUrl": ".",
-        "paths": {
-            "*": [
-                "src/*",
-                "src/types/*"
-            ]
-        }
+        "baseUrl": "."
     },
     "include":[
         "src/**/*.ts",

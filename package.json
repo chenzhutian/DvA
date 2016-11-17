@@ -23,6 +23,7 @@
   },
   "homepage": "https://github.com/chenzhutian/narrative-engine#readme",
   "devDependencies": {
+    "@types/node": "^6.0.48",
     "tslint": "^3.15.1",
     "typescript": "^2.0.10"
   }
