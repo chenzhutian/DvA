@@ -2,7 +2,7 @@
     "compilerOptions": {
         "target": "es6",
         "outDir": "dist",
-        "module": "umd",
+        "module": "amd",
         "sourceMap": true,
         "preserveConstEnums": true,
         "rootDir": ".",
