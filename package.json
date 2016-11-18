@@ -1,10 +1,11 @@
 {
-  "name": "D.Va",
+  "name": "DVA",
   "version": "0.0.1",
   "description": "a animation engine for narrative visualization",
   "main": "index.js",
   "scripts": {
-    "test": "npm run test"
+    "test": "npm run test",
+    "build": "tsc -p .&& rollup -c"
   },
   "repository": {
     "type": "git",
